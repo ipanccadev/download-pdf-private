@@ -1,4 +1,4 @@
-# 🧾 Descargar PDF desde imágenes privadas en Google Drive
+# 📄 Generador de PDF desde imágenes cargadas en el navegador
 
 Este proyecto contiene un script en JavaScript que permite generar y descargar un PDF a partir de imágenes cargadas desde enlaces **privados** (por ejemplo, con URLs tipo `blob:`) como las generadas al visualizar archivos privados en Google Drive.
 
